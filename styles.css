@@ -1,0 +1,207 @@
+.icon-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 4em;
+}
+
+.icon-text a {
+    margin-left: 2em;
+    font-weight: 800;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
+
+i {
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+}
+
+.new-button {
+    background-color: #FFD800;
+    color: black;
+    border: none;
+    border-radius: none;
+    margin: auto;
+    margin-bottom: 0.5em;
+    width: 60px;
+}
+
+.see-updated-button {
+    background-color: #FFD800;
+    color: black;
+    border: none;
+    border-radius: none;
+    margin: auto;
+    margin-bottom: 0.5em;
+    width: 175px;
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    width:92%;
+    margin: auto;
+    margin-top: 3em;
+}
+
+.mk-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mk-center h5 {
+    font-weight: 700;
+    text-align: center;
+}
+
+.mk-center p {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.side-links {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.gainsboro {
+    background-color: gainsboro;
+}
+
+a.btn-preorder {
+    background-color: black;
+    color: white;
+    width: 160px;
+    margin: auto;
+    margin-top: 0.5em;
+}
+
+.carousel-item img {
+    margin-bottom: 4em;
+}
+
+#carouselExampleDark{
+    padding-bottom: 5em;
+}
+
+.extend-card-bottom {
+    padding-bottom: 5em;
+}
+
+.business {
+    font-weight: 700;
+    font-size: 1.25em;
+    padding-left: 1.5em;
+    padding-top: 3em;
+    margin-bottom: 0em;
+}
+
+.no-margin-top{
+    margin-top: 0.5em;
+}
+
+.no-margin-top img{
+    margin-top: 0.5em;
+}
+
+.covid-msg {
+    margin-top: 3em;
+    color: black;
+    margin-bottom: 3em;
+}
+
+.format-link {
+    display: flex;
+    justify-content: center;
+}
+
+.format-link a {
+    color: black;
+    padding-top: 0.5em;
+}
+
+.dark-background {
+    background-color: #333;
+    color: white;
+}
+
+.pad-section {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 1.5em;
+}
+
+.footer-header {
+    font-weight: 700;
+}
+
+.footer-text a {
+    color: black;
+    font-size: smaller;
+}
+
+.footer-text p {
+    color: black;
+    font-size: smaller;
+}
+
+.footer-bottom {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+}
+
+.footer-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.nav-item {
+    padding-left: 1em;
+}
+
+nav {
+    color: #F2F2F2;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+}
+
+.nav-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nav-right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1.5em;
+}
+
+.nav-right a {
+    color: black;
+}
+
+.nav-row button {
+    border: none;
+}
